@@ -12,7 +12,7 @@
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :onebitcode: Technologies
+## :rocket: Technologies
 
 This project was developed at the [curse full-stack javascript in eight weeks ](https://rocketseat.com.br) with the following technologies:
 
