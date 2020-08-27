@@ -1,5 +1,7 @@
 <h1 align="center">
     <br>
+    ![WhatsApp Image 2020-08-27 at 16 07 08](https://user-images.githubusercontent.com/54913676/91485684-97987e00-e881-11ea-8bd9-b4044828d0f0.jpeg)
+
     Full Stack Evernote Clone <br />
     Node.js | ReactJS | 
 </h1>
