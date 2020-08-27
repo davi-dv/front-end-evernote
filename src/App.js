@@ -1,11 +1,11 @@
 import React from 'react';
 import "./App.scss";
 import { Notification, Section } from 'rbx';
-import Header from './components/header'
+import HomeScreen from './screens/home'
  
 const App = () => (
   <div>
-   <Header/>
+   <HomeScreen/>
   </div>
 )
  
