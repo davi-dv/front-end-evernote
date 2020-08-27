@@ -1,9 +1,10 @@
 <h1 align="center">
+    <img alt="Full Stack Instagram Clone" src="https://res.cloudinary.com/lukemorales/image/upload/v1562202893/readme_logos/instagram_fullstack_aftphr.png" 
     <br>
-    <img alt="Full Stack evernote Clone" src=" (https://user-images.githubusercontent.com/54913676/91485684-97987e00-e881-     11ea-8bd9-b4044828d0f0.jpeg)" />
 
     Full Stack Evernote Clone <br />
     Node.js | ReactJS | 
+    
 </h1>
 
 <p align="center">
