@@ -1,68 +1,71 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo of the project](http://logo_link)
 
-## Available Scripts
+## Name_of_the_project
 
-In the project directory, you can run:
+... JavaScriptNotes
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technology 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Here are the technologies used in this project.
 
-### `npm test`
+* axios": 0.20.0
+* bulma": 0.9.0
+* moment": 2.27.0
+* node-sass": 4.14.1
+* rbx": 2.2.0
+* react": 16.13.1
+* react-dom": 16.13.1
+* react-router-dom": 5.2.0
+   
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Services Used
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Github
+* ...
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Ruby Gems
+...
 
-### `npm run eject`
+## Getting started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* To install gems:
+>    $ bundle install
+* To create the bank and do as migrations:
+>    $ rake db:create db:migrate db:seed
+* To run the project:
+>    $ rails s
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to use
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Here will be the images and descriptions. Principal content.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Features
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - Here will be the features.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Links
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+  - Link of deployed application: (if has been deployed)
+  - Repository: https://link_of_repository
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      YOUR EMAIL directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Versioning
 
-### Making a Progressive Web App
+1.0.0.0
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+## Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+* **Davi oliveira**: @davi-dv (https://github.com/davi-dv)
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Please follow github and join us!
+Thanks to visiting me and good coding!
