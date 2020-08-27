@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Full Stack Instagram Clone" src="https://res.cloudinary.com/lukemorales/image/upload/v1562202893/readme_logos/instagram_fullstack_aftphr.png" />
+    <img alt="Full Stack Instagram Clone" src="blob:https://web.whatsapp.com/4f0c4c5a-eef6-469c-8393-520b4cd5fe72" />
     <br>
     Full Stack Evernote Clone <br />
     Node.js | ReactJS | 
