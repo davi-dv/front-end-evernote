@@ -16,14 +16,14 @@
 
 This project was developed at the [curse full-stack javascript in eight weeks ](https://rocketseat.com.br) with the following technologies:
 
-* axios": 0.20.0
-* bulma": 0.9.0
-* moment": 2.27.0
-* node-sass": 4.14.1
-* rbx": 2.2.0
-* react": 16.13.1
-* react-dom": 16.13.1
-* react-router-dom": 5.2.0
+* axios: 0.20.0
+* bulma: 0.9.0
+* moment: 2.27.0
+* node-sass: 4.14.1
+* rbx: 2.2.0
+* react: 16.13.1
+* react-dom: 16.13.1
+* react-router-dom: 5.2.0
 
 
 ## :warning: Prerequisites
