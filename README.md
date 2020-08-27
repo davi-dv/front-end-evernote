@@ -26,8 +26,6 @@ Here are the technologies used in this project.
 * ...
 
 
-## Ruby Gems
-...
 
 ## Getting started
 
