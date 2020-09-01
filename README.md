@@ -16,7 +16,7 @@
 
 ## :rocket: Technologies
 
-This project was developed at the [curse full-stack javascript in eight weeks ](https://rocketseat.com.br) with the following technologies:
+This project was developed at the [curse full-stack javascript in eight weeks ](https://onebitcode.com/) with the following technologies:
 
 * axios: 0.20.0
 * bulma: 0.9.0
